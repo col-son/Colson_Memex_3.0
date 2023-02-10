@@ -1,11 +1,21 @@
-# Obsidian Notes
+Colson's Memex Index
 
-Publish your public notes with MkDocs
+- Lecture Notes:
+	- [[Lecture 1 - Archeological Theory]]
+	- [[Lecture 2 - Mediums and Messages]]
+	- [[Lecture 3 - Cryptography]]
+	- [[Lecture 4 - The Silk Industry to Modern Computers]]
+	- [[Lecture 4 - The Silk Industry to Modern Computers]]
 
-## Hello World!
+- Source Notes:
+	- [[@bushvannevarWeMayThink1945]]
+	- [[@dooleyHistoryCryptographyCryptanalysis2018a]]
+	- [[@dysonSearchArtificialStellar1960]]
+	- [[@makHowPageMatters2011]]
+	- [[@stephensDeadEyesOpen2015]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- Idea Notes
+	- [[Francis Bacon Binary and More?]]
+	- [[Answer to the Francis Bacon Question]]
+	- [[Book Lab]]
+	- [[Technologies we cannot yet create]]
