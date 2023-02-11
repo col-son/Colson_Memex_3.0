@@ -5,7 +5,7 @@ Colson's Memex Index
 	- [[Lecture 2 - Mediums and Messages]]
 	- [[Lecture 3 - Cryptography]]
 	- [[Lecture 4 - The Silk Industry to Modern Computers]]
-	- [[Lecture 4 - The Silk Industry to Modern Computers]]
+	- [[Lecture 5 - The History of Electricity]]
 
 - Source Notes:
 	- [[@bushvannevarWeMayThink1945]]
