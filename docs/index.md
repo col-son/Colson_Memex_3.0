@@ -33,6 +33,7 @@ Guide map, showing the flow of notes as they evolved from each other
 - Atomic Notes
 	- [[Marchant Sponge Divers Memex 2]]
 	- [[Social necessity vs cost Memex 2]]
+	- [[Winston Rejection Memex 2]]
 	- [[Winston's Model for More Memex 2]]
 
 - Idea Notes
@@ -41,6 +42,7 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[Competences and Social Necessity Antikythera Memex 2]]
 	- [[cutting costs today Memex 2]]
 	- [[Francis Bacon Binary and More?]]
+	- [[Prototype Rejection Memex 2]]
 	- [[Technologies we cannot yet create]]
 	- [[The Industries Behind the Technology Memex 2]]
 
