@@ -6,7 +6,7 @@ project:
 ---
 tags:: #History #History-of-Computing #technology-development 
 projects::[[]]
-
+date: 2023-03-08
 
 Winston's model for the process in which telecommunication develops (3-15) feels like it can be applied to a wider scope of inventions. Perhaps not all advancements, but certainly more than just telecommunications.
 

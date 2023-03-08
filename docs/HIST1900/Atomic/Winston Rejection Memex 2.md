@@ -6,6 +6,7 @@ project:
 ---
 tags:: 
 projects::[[]]
+date: 2023-03-08
 
 An interesting look at the rejection of prototypes, currently trying to think of other reasons that a working prototype might be turned down.
 

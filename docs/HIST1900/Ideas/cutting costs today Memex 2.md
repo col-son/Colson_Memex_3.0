@@ -7,6 +7,7 @@ project:
 
 tags::  
 projects::[[]]
+date: 2023-03-08
 
 - Depsite the need for something, companies will neglect it to save expenses
 	- This can be seen in Doodson's look at use of the tide-predicting machine

@@ -7,6 +7,7 @@ project:
 
 tags::  #History #History-of-Computing #technology-development 
 projects::[[]]
+date: 2023-03-07
 
 - As I said in my note [[@winstonMediaTechnologySociety2002 Memex 2]], I feel that the model proposed by Brian Winston can be applied for a wide range of techologies
 - In the case of the Antikythera mechanism, this rings true

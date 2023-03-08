@@ -7,6 +7,7 @@ project:
 
 tags::  
 projects::[[]]
+date: 2023-03-08
 
 - Aside from there not being a current need, I really like [Rowan's explanation](https://rowanegg.github.io/thememexofegg/SupplyDemand.html) of an alternate reason a new prototype could be rejected
 	- Rejection of IBM cards, being dehumanizing 

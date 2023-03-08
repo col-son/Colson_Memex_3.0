@@ -6,7 +6,7 @@ project:
 ---
 tags:: #History 
 projects::[[]]
-
+date: 2023-03-07
 
 In her book, Marchant goes in-depth about how the Antikythera mechanism was discovered, beginning with the background information needed to understand the circumstances of its uncovering. This includes giving a history lesson on divers who harvested sponges (6), the technologies they used (7), and the danger behind their work (9-10). 
 

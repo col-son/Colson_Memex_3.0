@@ -7,6 +7,7 @@ project:
 
 tags:: #History 
 projects::[[]]
+date: 2023-03-07
 
 - Sponge divers who discovered the Antikythera wreckage remind me a lot of the workers who would have been harvesting the sap from Gutta-Percha trees to make rubber for telegraph wires.
 - Both industries take from the environment, which, although in different ways, led to advances in the modern understanding of technology.
