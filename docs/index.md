@@ -47,3 +47,4 @@ Guide map, showing the flow of notes as they evolved from each other
 - To Do:
 	- Keep making more atomic, now that I've gotten the flow of it
 	- Add more connections with others' content
+	- add dates to lectures going forward
