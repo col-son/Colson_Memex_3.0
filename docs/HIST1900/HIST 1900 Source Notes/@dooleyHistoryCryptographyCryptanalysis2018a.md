@@ -1,3 +1,4 @@
+---
 Title: @dooleyHistoryCryptographyCryptanalysis2018a
 date: {{2023-01-23}}
 type: reference
