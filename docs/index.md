@@ -1,6 +1,5 @@
 Colson's Memex Index
-![[MemexVisualGuideFinal.png]]
-
+![[MemexVisualGuideLast.png]]
 Guide map, showing the flow of notes as they evolved from each other
 
 - Administrative (Read First!)
@@ -46,11 +45,11 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[Lecture 3 - Cryptography]]
 	- [[Lecture 4 - The Silk Industry to Modern Computers]]
 	- [[Lecture 5 - The History of Electricity]]
-	- [[Lecture 6 - The First Internet; The Telegraph Memex 2]]
-	- [[Lecture 7 - The First Internet; The Telegraph cont. Memex 2]]
-	- [[Lecture 8 - From Telegraph to Telephone Memex 2]]
-	- [[Lecture 9 - The Rise of the Telephone Memex 2]]
-	- [[Lecture 10 - Developing the Computer Memex 2]]
+	- [[Lecture 6 - The First Internet; The Telegraph]]
+	- [[Lecture 7 - The First Internet; The Telegraph cont.]]
+	- [[Lecture 8 - From Telegraph to Telephone]]
+	- [[Lecture 9 - The Rise of the Telephone]]
+	- [[Lecture 10 - Developing the Computer]]
 
 - Source Notes:
 	- [[@bushvannevarWeMayThink1945]]
@@ -66,10 +65,10 @@ Guide map, showing the flow of notes as they evolved from each other
 
 - Atomic Notes
 	- [[adoption of technology]]
-	- [[brief clarification on cybersecurity Memex 3]]
+	- [[brief clarification on cybersecurity]]
 	- [[computers fill in the gaps]]
 	- [[developing email security]]
-	- [[early email security? memex 3]]
+	- [[early email security]]
 	- [[geocities and BBS]]
 	- [[internet is protocols]]
 	- [[Ithaca AI]]
@@ -79,7 +78,7 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[one tech leads to the next]]
 	- [[phone company monopoly]]
 	- [[Social necessity vs cost]]
-	- [[Technology Development for Military Memex 3]]
+	- [[Technology Development for Military]]
 	- [[Winston Rejection]]
 	- [[Winston's Model for More]]
 
@@ -89,7 +88,7 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[Book Lab]]
 	- [[Competences and Social Necessity Antikythera]]
 	- [[controlling the results]]
-	- [[cutting costs today Memex 2]]
+	- [[cutting costs today]]
 	- [[Francis Bacon Binary and More]]
 	- [[natural progression of platforms]]
 	- [[Prototype Rejection]]
