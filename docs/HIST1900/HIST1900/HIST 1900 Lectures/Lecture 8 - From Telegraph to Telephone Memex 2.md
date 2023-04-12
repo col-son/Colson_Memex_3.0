@@ -1,0 +1,45 @@
+- In a time period of about 30 years, technology goes from the phonautograph to the telephone as it originally existed 
+- the telephone was an idea for a long time, and was once a term that carried a negative aura, as everyone knew voices could not be sent over telegraph wires
+- Dates for telephone invention
+	- 1840-Charles Page holds magnets near wire and makes electrical tones
+	- 1854-Charles Bourseul creates a way to send voice over a distance by making and breaking electrical signals
+	- 1954-Antonio Meucci, claims to have made a telephone before Graham, with no proof however
+	- 1857-Johann Phillip Reis creates way to send sound over distance
+	- 1876-Bell vs Gray both have patents for telephone going at the same time
+- Earhorn: a competence needed to create a modern telephone, could pick up sounds and be used to amplify them
+- Charles Page: Page effect, a magnetic wire can be used to transmit sound, and the intensity of the signal can change the tone
+- The results of this work showed there was money in the business of the telephone
+- It was also realized multiple frequencies, could be sent down the same wire, and there was already wires strung all over the place
+- A missing piece: variable resistance 
+	- the realization that carbon tubes can be put under pressure to change their electrical resistance, and the same goes for wires under tension
+- also: the theory of language
+- bad reputation of speaking devices
+	- automatons had a bad reputation for being frauds, and so did speaking devices
+	- Graham Bell kept it secret that he was working on transmitting voices, saying it was a telegraph device, so he would not be too shamed
+- Elisha Gray, however, frames his more as a telephone
+- Their work is actually slightly different, Gray's is better at sending and Graham's is better at receiving
+- The dispute between the two of who made their invention first
+- There is also the issue of Phillip Reis, who made an early telephone that sort of worked and sold them as a piece of lab research technology, not a telephone
+- Gray vs Bell
+	- Gray uses Page Effect to send electrical signals and sells it to Western Union, he also shows it off at the centennial exhibition, which is where he meets Bell
+	- In about a month, he has a working telephone but does not fill out the paperwork for a patent, as it was just a side project
+	- meanwhile, Bell does not have a big funding behind him, but wants to marry a deaf woman he knows, but her father will only allow it if he gets his telephone out to the public
+	- Bell files a patent, but the device he's patented doesn't actually exist
+	- He gets things working and holds public demonstrations
+	- the receiver works fine but the transmitter is not great
+- Thomas Edison and Emile Berliner work on a way to improve the transmitter, using material under pressure
+- Bell buys the patent from Edison, Edison goes a separate way
+- Bell, backed by his future father in law vs Edison and Gray and the entire Western Union group
+- The main social necessity:
+	- improving economics of telegraphy
+	- emergence of the modern corporation
+		- Bell company believed telephones were for business, not pleasure
+		- they would rent out pairs to companies, and the Boston money market was a key player in keeping the company afloat
+- phones were not a household thing until after WWII, as no one knows what the ideal business model for them is
+- legal troubles among all the other developments
+- things get heated until eventually an agreement is reached
+	- Western Union takes the telegraph
+	- Bell buys out the Western Union telephones, and will give 20% of rental fees for 20 years ^1e889c
+	- Separation is created, the telegraph is for long distances and telephone is for local communication
+- Telegraph boys were originally hired for telephones but were unreliable, and soon women dominate the positions
+- Bell labs created, which work on improving telephone signal, especially over long distances, which is where the big bucks are
