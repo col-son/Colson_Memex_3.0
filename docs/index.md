@@ -56,11 +56,16 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[@doodsonTidepredictingMachines1926]]
 	- [[@dooleyHistoryCryptographyCryptanalysis2018a]]
 	- [[@dysonSearchArtificialStellar1960]]
+	- [[@edwardssecretlifeBBS2022]]
+	- [[@housleyEvolutionEmailSecurity2022]]
 	- [[@makHowPageMatters2011]]
 	- [[@marchantDecodingHeavensYear2009]]
+	- [[@rouecheMindGapAI2022]]
 	- [[@spinellisAntikytheraMechanismComputer2008]]
 	- [[@standageVictorianInternetRemarkable1998]]
 	- [[@stephensDeadEyesOpen2015]]
+	- [[@understandingmediaculture2010]]
+	- [[@weingarttextmessagingworks2019]]
 	- [[@winstonMediaTechnologySociety2002]]
 
 - Atomic Notes
