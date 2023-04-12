@@ -1,10 +1,40 @@
 Colson's Memex Index
-![[MemexVisualGuide.png]]
+![[MemexVisualGuideUpdated.png]]
 Guide map, showing the flow of notes as they evolved from each other
 
 - Administrative (Read First!)
 	- [[Explanation of Memex 2]]
+	- [[Explanation of Memex 3]]
 	- [[Improvements Made for Memex Assessment 2]]
+	- [[Improvements made for Memex Assesment 3]]
+
+- Tags to explore:
+	- #ai 
+		- notes mentioning artificial intelligence
+	- #analog-computing 
+		- notes relating to things that deal with early, analog computers that rely on physical mechanisms instead of digital
+	- #capitalism-in-internet 
+		- instances across the course where profit was given priority over other things, such as ethical development
+	- #communication 
+		- notes dealing with technology or ideas that are used in general person-to-person communication
+	- #data-storage 
+		- notes about different ways data can be stored
+	- #early-computers 
+		- things that have to do with the early days of digital computers
+	- #internet-culture 
+		- notes dealing with online culture and entertainment
+	- #intertwining-tecnology 
+		- notes involving technology that at first glance may not seem connected to the history of the internet, but does indeed have a link to things after closer inspection
+	- #model-of-thought 
+		- notes that touch on abstract concepts, ways of thinking
+	- #pop-culture 
+		- notes mentioning general culture or entertainment. (These often intersect with #internet-culture )
+	- #security 
+		- notes mentioning security, be it physical or cyber
+	- #technology-evolution 
+		- notes that are more direct explanations of the evolution of technology
+	- #theoretical-technologies 
+		- notes about technologies that, at the time of the original authors writing, could not exist
 
 - Lecture Notes:
 	- [[Lecture 1 - Archeological Theory]]
@@ -31,23 +61,35 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[@winstonMediaTechnologySociety2002 Memex 2]]
 
 - Atomic Notes
+	- [[adoption of technology Memex 3]]
+	- [[brief clarification on cybersecurity Memex 3]]
+	- [[computers fill in the gaps Memex 3]]
+	- [[developing email security Memex 3]]
+	- [[early email security? memex 3]]
+	- [[geocities and BBS Memex 3]]
+	- [[internet is protocols memex 3]]
+	- [[Ithaca AI Memex 3]]
+	- [[many platforms, same function memex 3]]
 	- [[Marchant Sponge Divers Memex 2]]
+	- [[old technology is the basis Memex 3]]
+	- [[one tech leads to the next Memex 3]]
+	- [[phone company monopoly Memex 3]]
 	- [[Social necessity vs cost Memex 2]]
+	- [[Technology Development for Military Memex 3]]
 	- [[Winston Rejection Memex 2]]
 	- [[Winston's Model for More Memex 2]]
 
 - Idea Notes
+	- [[ai filling in the gaps? Memex 3]]
 	- [[Answer to the Francis Bacon Question]]
 	- [[Book Lab]]
 	- [[Competences and Social Necessity Antikythera Memex 2]]
+	- [[controlling the results memex 3]]
 	- [[cutting costs today Memex 2]]
 	- [[Francis Bacon Binary and More?]]
+	- [[natural progression of platforms Memex 3]]
 	- [[Prototype Rejection Memex 2]]
 	- [[Technologies we cannot yet create]]
 	- [[The Industries Behind the Technology Memex 2]]
+	- [[why no security Memex 3]]
 
-- To Do:
-	- Keep making more atomic, now that I've gotten the flow of it
-	- Add more connections with others' content
-		- hopefully with more memex's posted, i can find more things to link to
-	- add dates to lectures going forward
