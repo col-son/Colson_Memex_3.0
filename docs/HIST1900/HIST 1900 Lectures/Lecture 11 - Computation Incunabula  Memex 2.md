@@ -11,7 +11,7 @@
 	- From calculator to computer
 	- Key element is where the data is stored, and if the machine can change its actions based on data
 - Post War
-	- development slows, as there's no longer a large [need](Winston's%20Model%20for%20More%20Memex%202.md) 
+	- development slows, as there's no longer a large [need](Winston's%20Model%20for%20More.md) 
 	- Von Neuman writes "first draft of a report on the edvac"
 		- people in the field read this, get inspired
 - USA: Project Whirlwind
@@ -19,7 +19,7 @@
 	- when ENIAC comes around, things change as outputs are able to be recorded, and it can adapt to input
 	- new need comes around with the Cold War
 	- becomes the core of computing of air defence in North America
-- Lot's of need during the Cold War
+- Lots of need during the Cold War
 	- nuclear programs require a lot of computing
 	- all these programs require relearning of code, a job the women are doing 
 - Back to Britain
@@ -28,7 +28,7 @@
 	- runs a stored program from memory
 	- much smaller than other computers
 	- dismissed as just a prototype for interest  ^eb8429
-		- [[Prototype Rejection Memex 2]]
+		- [[Prototype Rejection]]
 - Allies stop sharing info with each other
 	- inventors also must stop sharing with their investors, which lead to rejections when searching for finance 
 - Alan Turing

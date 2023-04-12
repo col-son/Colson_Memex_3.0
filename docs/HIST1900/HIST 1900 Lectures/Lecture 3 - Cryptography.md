@@ -22,7 +22,7 @@ tags:: #History #Mathematics #technology-development
 	- Francis Bacon (unrelated from Roger Bacon)
 		- works out you can make every letter with groups of up to 5 A's and B's
 		- essentially the same system as binary code
-		- [[Francis Bacon Binary and More?]]
+		- [[Francis Bacon Binary and More]]
 - Nomenclator
 	- A mixture of substitution cyphers and codebooks
 	- Still used to early 19 century

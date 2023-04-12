@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: #data-storage
+tags:: #data-storage #theoretical-technologies #memex-1
 projects:[[]]
 
 ### Reference 

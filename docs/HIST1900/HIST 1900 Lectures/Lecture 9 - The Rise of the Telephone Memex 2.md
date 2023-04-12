@@ -33,7 +33,7 @@
 - Farmers realize they can connect to each other using their already existing wires
 - With this competition and separation, many people will have two phones, for different systems
 	- class divide, wealthy on Bell system and others on cheaper systems
-- American competition causes huge costs, especially more expensive in certain cities
+- American competition causes huge costs, especially more expensive in certain cities ^abef71
 - Meanwhile in Europe, costs are low and quality is equal, as phonelines are nationalized under post offices
 - costs for phone calls are super expensive for long distance
 	- this leads to people pooling together to get a phone, public phones

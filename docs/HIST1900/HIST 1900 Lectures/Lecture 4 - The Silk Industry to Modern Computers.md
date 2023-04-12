@@ -1,6 +1,6 @@
 tags:: #History-of-Computing #History #History-of-Science #technology-development 
 
-- Western obsession with crediting someone as the first to do something always
+- Western obsession with crediting someone as the first to do something always ^1c4a3a
 	- Does this really matter?
 - Evidence of weaving back to the 5th millennium
 	- Language surrounding weaving continues to be used in modern technology
@@ -39,4 +39,4 @@ tags:: #History-of-Computing #History #History-of-Science #technology-developmen
 	- This involved dropping pins onto cards into mercury pools, which complete a circuit and tabulate the data
 	- He goes on to make a company renting these tabulation machines to governments to make data organization easier
 - Eventually, this technology was used by IBM and spread to not only governments but businesses, where the real money was
-- This gives me the [[Answer to the Francis Bacon Question]] that I brought up in [[Francis Bacon Binary and More?]] 
+- This gives me the [[Answer to the Francis Bacon Question]] that I brought up in [[Francis Bacon Binary and More]] 

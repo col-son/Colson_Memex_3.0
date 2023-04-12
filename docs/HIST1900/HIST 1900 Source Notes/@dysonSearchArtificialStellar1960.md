@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: #History #History-of-Science #technology-development 
+tags:: #theoretical-technologies #memex-1 
 projects:[[]]
 
 ### Reference 

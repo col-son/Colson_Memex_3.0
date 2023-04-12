@@ -1,11 +1,11 @@
 ---
-Title: PUT THE TITLE OF NOTE HERE
+Title: cutting costs today
 date: 2023-03-08
 type: permanent
 project:
 ---
 
-tags::  
+tags:: #capitalism-in-internet #memex-2 
 projects::[[]]
 date: 2023-03-08
 
@@ -15,5 +15,5 @@ date: 2023-03-08
 		- just a personal anecdote for a modern example:
 		- at my first part-time job I remember there were originally 5 people who would close the store every night. By the time I left there were 4, and we also had to do the job of a position that used to work in the morning, that the company had gotten rid of. this and the hours I was getting were greatly reduced
 
-[[Social necessity vs cost Memex 2]]
-[[@doodsonTidepredictingMachines1926|Tide-predicting Machines]]
+[[Social necessity vs cost]]
+[[1-inbox/@doodsonTidepredictingMachines1926|Tide-predicting Machines]]

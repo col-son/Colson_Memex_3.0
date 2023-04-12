@@ -4,7 +4,7 @@ date: 2023-01-25
 type: literature
 project:
 ---
-tags:: #data-storage 
+tags:: #data-storage #memex-1 
 projects::[[]]
 
 - Words from the Master Printer at the Book Arts Lab:

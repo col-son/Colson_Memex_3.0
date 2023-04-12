@@ -4,7 +4,7 @@ date: 2023-02-08
 type: literature
 project:
 ---
-tags:: #technology-development 
+tags:: #theoretical-technologies #memex-1
 projects::[[]]
 
 
