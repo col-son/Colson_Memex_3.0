@@ -1,5 +1,6 @@
 Colson's Memex Index
-![[MemexVisualGuideUpdated.png]]
+![[MemexVisualGuideFinal.png]]
+
 Guide map, showing the flow of notes as they evolved from each other
 
 - Administrative (Read First!)
@@ -9,6 +10,9 @@ Guide map, showing the flow of notes as they evolved from each other
 	- [[Improvements made for Memex Assesment 3]]
 
 - Tags to explore:
+	- #memex-1 
+	- #memex-2 
+	- #memex-3 
 	- #ai 
 		- notes mentioning artificial intelligence
 	- #analog-computing 
@@ -50,46 +54,46 @@ Guide map, showing the flow of notes as they evolved from each other
 
 - Source Notes:
 	- [[@bushvannevarWeMayThink1945]]
-	- [[@doodsonTidepredictingMachines1926 Memex 2]]
+	- [[website/HIST1900/HIST 1900 Source Notes/@doodsonTidepredictingMachines1926]]
 	- [[@dooleyHistoryCryptographyCryptanalysis2018a]]
 	- [[@dysonSearchArtificialStellar1960]]
 	- [[@makHowPageMatters2011]]
-	- [[@marchantDecodingHeavensYear2009 Memex 2]]
-	- [[@spinellisAntikytheraMechanismComputer2008 Memex 2]]
-	- [[@standageVictorianInternetRemarkable1998 Memex 2]]
+	- [[@marchantDecodingHeavensYear2009]]
+	- [[website/HIST1900/HIST 1900 Source Notes/@spinellisAntikytheraMechanismComputer2008]]
+	- [[@standageVictorianInternetRemarkable1998]]
 	- [[@stephensDeadEyesOpen2015]]
-	- [[@winstonMediaTechnologySociety2002 Memex 2]]
+	- [[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
 
 - Atomic Notes
-	- [[adoption of technology Memex 3]]
+	- [[adoption of technology]]
 	- [[brief clarification on cybersecurity Memex 3]]
-	- [[computers fill in the gaps Memex 3]]
-	- [[developing email security Memex 3]]
+	- [[computers fill in the gaps]]
+	- [[developing email security]]
 	- [[early email security? memex 3]]
-	- [[geocities and BBS Memex 3]]
-	- [[internet is protocols memex 3]]
-	- [[Ithaca AI Memex 3]]
-	- [[many platforms, same function memex 3]]
-	- [[Marchant Sponge Divers Memex 2]]
-	- [[old technology is the basis Memex 3]]
-	- [[one tech leads to the next Memex 3]]
-	- [[phone company monopoly Memex 3]]
-	- [[Social necessity vs cost Memex 2]]
+	- [[geocities and BBS]]
+	- [[internet is protocols]]
+	- [[Ithaca AI]]
+	- [[many platforms, same function]]
+	- [[Marchant Sponge Divers]]
+	- [[old technology is the basis]]
+	- [[one tech leads to the next]]
+	- [[phone company monopoly]]
+	- [[Social necessity vs cost]]
 	- [[Technology Development for Military Memex 3]]
-	- [[Winston Rejection Memex 2]]
-	- [[Winston's Model for More Memex 2]]
+	- [[Winston Rejection]]
+	- [[Winston's Model for More]]
 
 - Idea Notes
-	- [[ai filling in the gaps? Memex 3]]
+	- [[ai filling in the gaps]]
 	- [[Answer to the Francis Bacon Question]]
 	- [[Book Lab]]
-	- [[Competences and Social Necessity Antikythera Memex 2]]
-	- [[controlling the results memex 3]]
+	- [[Competences and Social Necessity Antikythera]]
+	- [[controlling the results]]
 	- [[cutting costs today Memex 2]]
-	- [[Francis Bacon Binary and More?]]
-	- [[natural progression of platforms Memex 3]]
-	- [[Prototype Rejection Memex 2]]
+	- [[Francis Bacon Binary and More]]
+	- [[natural progression of platforms]]
+	- [[Prototype Rejection]]
 	- [[Technologies we cannot yet create]]
-	- [[The Industries Behind the Technology Memex 2]]
-	- [[why no security Memex 3]]
+	- [[The Industries Behind the Technology]]
+	- [[why no security]]
 
