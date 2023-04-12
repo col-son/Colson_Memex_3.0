@@ -1,4 +1,4 @@
-tags:: #History 
+tags::  #memex-1
 
 - Jacquard loom punch card: a precursor to the internet
 - History of computation largely built on the labour of women

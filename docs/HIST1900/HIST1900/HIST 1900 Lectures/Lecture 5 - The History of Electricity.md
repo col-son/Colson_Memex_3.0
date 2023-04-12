@@ -1,4 +1,4 @@
-tags:: #History #technology-development #History-of-Science 
+tags:: #memex-1
 
 - Mushrooms emit over 50 different electrical pulses to communicate with each other
 - Many animals also emit these pulses

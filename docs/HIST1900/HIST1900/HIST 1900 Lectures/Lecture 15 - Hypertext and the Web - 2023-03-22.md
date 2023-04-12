@@ -1,0 +1,35 @@
+tags:: #memex-3
+
+- 1983 - domain name system created 
+	- comes in effect 1984
+
+- 1986 - NSF backbone is built
+- by 1987, the internet has over 10,000 hosts
+- 1988 - commercial email transported over nsf net
+- 1990 ARPAnet shuts down
+- Gore proposes and sees through the HIgh Performance Computing Act, funds the things that create the first web browser
+- 1991, web really comes out, 1993 becomes popular
+- first viruses are mostly tests ^2e8bcf
+	- 1971, Bob Thomas creates Creeper, which would copy itself onto computers and say "I'M THE CREEPER CATCH ME IF YOU CAN" would delete itself when it goes to the nect computer
+	- 1972, Reaper, designed by Rau Tomilson to seek out and eliminate Creeper
+	- 1975, first Trojan, ANIMAL, John Walker
+		- 20 questions style game
+		- while the game is being played, PERVADE, hidden within the game looks for connected computers without a copy of the game, to copy itself to.
+	- 1988, The Morris Worm 
+		- within 24 hours connected to approx 1/10 of computers
+		- has a number of programs, and operations designed to hide
+		- targeted business, military, and university systems
+		- slows down emails and communication for days
+		- was released by accident, the creator tries to send messages to explain how to delete the program
+		- initials released, community small enough he is found, arrested by FBI, fined
+- Ted Nelson, Xanadu
+	- coins hypertext
+	- never built
+- Magie Appleton created a pattern language (essentially guidelines)
+	- these answer questions of how to present hypertext and systems for it
+- 1986, a new Domesday Book for the 800th anniversary of the original,  on laserdisc
+-  main programs for a 'scholar's workstation' coded buy women, eventually stolen by men
+- apple scoops up a women's system and makes Hypercard, which combined layers of info
+- Tim Berners Lee creates a proposal for a hypertext, as a way to link all useful pieces of info on the internet
+- proposed '88, working in '90, shortly after, available to businesses and the public
+- key idea is that it can use info on other computers to connect to

@@ -5,7 +5,7 @@ type: reference
 project:
 ---
 
-tags:: #pop-culture #intertwining-tecnology #technology-evolution 
+tags:: #pop-culture #intertwining-tecnology #technology-evolution #memex-1
 projects:[[]]
 
 ### Reference 

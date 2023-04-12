@@ -1,11 +1,11 @@
 ---
 Title: @dooleyHistoryCryptographyCryptanalysis2018a
-date: {{2023-01-23}}
+date: 2023-01-23
 type: reference
 project:
 ---
 
-tags:: #security 
+tags:: #security #memex-1 
 projects:[[]]
 
 ### Reference 

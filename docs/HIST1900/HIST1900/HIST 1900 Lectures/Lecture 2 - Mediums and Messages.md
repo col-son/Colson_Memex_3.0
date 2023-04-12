@@ -1,4 +1,4 @@
-tags:: #History #data-storage 
+tags:: #memex-1
 
 - The medium of a message can change its impact
 	- or the nature of it

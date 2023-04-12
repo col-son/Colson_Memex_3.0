@@ -1,0 +1,25 @@
+tags:: #memex-2 
+
+- Thinking back to assemblages and emerging tech, how do we untangle and make sense of this?
+- Work of Brian Winston: Historian of Science
+	- communication technologies are a performance of scientific competence
+	- certain social aspects must be built up before the performance can take place
+	- from idea to technology, there is a transformation, taking place within the social sphere
+		- some things don't work out, and as such we have parallel developing tech and prototypes
+	- a technology is more than the scientific base or idea, but also the social conditions that it is fitting into
+- the telegraph
+	- social sphere develops a need for mass communication
+		- major world powers who have massive empires need a way to communicate across them quickly
+- 1814, Ralph Wedgewood comes up with an electrical scheme for sending signals, the admiralty says no
+- 1816, Francis Ronald comes up with one, using synchronized clocks with letters, admiralty says no
+- They also decided all telegrams development is not needed, as the existing systems will suffice
+- with the emergence of the railroad, the need for high-speed signals becomes realized
+- Legal battles over technology as multiple people come up with the idea at the same time, and go to the railroad companies
+	- Davy vs Cooke and Wheatstone, Cooke and Wheatstone win out
+	- The Cooke and Wheatstone method which becomes popular uses 5 wires and combinations to send signals, using the galvanometer
+- Enter Samuel Morse
+	- Mainly a painter, but took some classes in electricity during his time at Yale
+	- Learns of recent experiments with electricity on the return of one of his trips from Europe
+	- Finds himself unable to solve the issue of constant electricity until he meets Joseph Henry
+	- Uses relay to negate the issues, the key to efficiency is to use code
+	- Uses the way printers organize their letters in order to help develop a new code

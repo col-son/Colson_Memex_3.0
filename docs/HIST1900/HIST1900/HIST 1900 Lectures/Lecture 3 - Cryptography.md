@@ -1,4 +1,4 @@
-tags:: #History #Mathematics #technology-development 
+tags:: #memex-1
 
 - The secret message is not *only* the message but also the pattern of how the message moves
 	- this can be found when linking groups during the American Revolution, finding Paul Revere at the centre
@@ -22,7 +22,7 @@ tags:: #History #Mathematics #technology-development
 	- Francis Bacon (unrelated from Roger Bacon)
 		- works out you can make every letter with groups of up to 5 A's and B's
 		- essentially the same system as binary code
-		- [[Francis Bacon Binary and More?]]
+		- [[Francis Bacon Binary and More]]
 - Nomenclator
 	- A mixture of substitution cyphers and codebooks
 	- Still used to early 19 century
