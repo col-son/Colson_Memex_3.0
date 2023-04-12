@@ -53,15 +53,15 @@ Guide map, showing the flow of notes as they evolved from each other
 
 - Source Notes:
 	- [[@bushvannevarWeMayThink1945]]
-	- [[website/HIST1900/HIST 1900 Source Notes/@doodsonTidepredictingMachines1926]]
+	- [[@doodsonTidepredictingMachines1926]]
 	- [[@dooleyHistoryCryptographyCryptanalysis2018a]]
 	- [[@dysonSearchArtificialStellar1960]]
 	- [[@makHowPageMatters2011]]
 	- [[@marchantDecodingHeavensYear2009]]
-	- [[website/HIST1900/HIST 1900 Source Notes/@spinellisAntikytheraMechanismComputer2008]]
+	- [[@spinellisAntikytheraMechanismComputer2008]]
 	- [[@standageVictorianInternetRemarkable1998]]
 	- [[@stephensDeadEyesOpen2015]]
-	- [[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+	- [[@winstonMediaTechnologySociety2002]]
 
 - Atomic Notes
 	- [[adoption of technology]]
