@@ -20,5 +20,5 @@ Dyson, FJ. 1960 Search for Artificial Stellar Sources of Infrared Radiation. _Sc
 
 ### Related Links
 
-- [[website/HIST1900/HIST 1900 Source Notes/@bushvannevarWeMayThink1945]]
-- [[website/HIST1900/HIST 1900 Source Notes/@dysonSearchArtificialStellar1960]] 
+- [[@bushvannevarWeMayThink1945]]
+- [[@dysonSearchArtificialStellar1960]] 

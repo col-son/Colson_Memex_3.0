@@ -14,6 +14,6 @@ date: 2023-03-08
 	- "Perhaps society has evolved to the point where the needs of the government, and therefore capitalism dominate the wants of the people"
 		- sounds reminiscent of my remarks in [[cutting costs today]]
 
-[[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+[[@winstonMediaTechnologySociety2002]]
 [[Winston Rejection]]
 [[Lecture 11 - Computation Incunabula#^eb8429]]

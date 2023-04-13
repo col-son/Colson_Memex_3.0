@@ -18,7 +18,7 @@ An interesting look at the rejection of prototypes, currently trying to think of
 ---
 ### Citational Information
 
-[[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+[[@winstonMediaTechnologySociety2002]]
 
 ---
 

@@ -18,7 +18,7 @@ The majority of technological advancements come as a result of military need. Th
 ---
 ### Citational Information
 
-[[website/HIST1900/HIST 1900 Source Notes/@housleyEvolutionEmailSecurity2022]]
+[[@housleyEvolutionEmailSecurity2022]]
 
 ---
 

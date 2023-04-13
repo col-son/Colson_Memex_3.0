@@ -23,7 +23,7 @@ Marchant gives a look into the history of the Antikythera mechanism, and the pro
 
 ### Links
 Also see
-[[website/HIST1900/HIST 1900 Source Notes/@spinellisAntikytheraMechanismComputer2008]]
+[[@spinellisAntikytheraMechanismComputer2008]]
 [[The Industries Behind the Technology]]
 [[Marchant Sponge Divers]]
 [[Competences and Social Necessity Antikythera]]

@@ -21,7 +21,7 @@ The beginning of work on email security comes later on than the "drop into someo
 ---
 ### Citational Information
 
-[[1-inbox/@housleyEvolutionEmailSecurity2022]]
+[[@housleyEvolutionEmailSecurity2022]]
 
 ---
 

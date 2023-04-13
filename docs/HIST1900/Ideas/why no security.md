@@ -13,7 +13,7 @@ I haven't been able to connect the dots in the way I'd like to when it comes to 
 
 Looking back I realize I had made note of this back in [[Lecture 14 - Online Culture in the 70s and 80s - 2023-03-20#^378bce]]
 
-[[1-inbox/@housleyEvolutionEmailSecurity2022]]
+[[@housleyEvolutionEmailSecurity2022]]
 [[@understandingmediaculture2010]]
 [[early email security]]
 [[developing email security]]

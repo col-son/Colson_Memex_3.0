@@ -28,5 +28,5 @@ Doodson, AT. 1926 Tide-predicting Machines. _Nature_ 118(2978): 787–788. DOI: 
 ### Related Links
 
 [[cutting costs today]]
-[[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+[[@winstonMediaTechnologySociety2002]]
 [[Winston's Model for More]]

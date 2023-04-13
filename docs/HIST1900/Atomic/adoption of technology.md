@@ -22,7 +22,7 @@ For another example of what I'm talking about, [[natural progression of platform
 ---
 ### Citational Information
 
-[[website/HIST1900/HIST 1900 Source Notes/@rouecheMindGapAI2022]]
+[[@rouecheMindGapAI2022]]
 
 ---
 

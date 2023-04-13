@@ -5,5 +5,5 @@
 - additional incorporation of classmates' work
 	- [[brief clarification on cybersecurity]]
 	- [[others on AI]]
-- tag system implemented on all notes, even previous memes assessment ones
+- tag system implemented on all notes, even previous memex assessment ones
 	- lecture notes have not been tagged

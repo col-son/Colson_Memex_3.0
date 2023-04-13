@@ -13,12 +13,12 @@ Winston's model for the process in which telecommunication develops (3-15) feels
 ---
 ### Citational Information
 
-[[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+[[@winstonMediaTechnologySociety2002]]
 Winston, B. 2002. _Media,Technology and Society: A History: From the Telegraph to the Internet_. 0 ed. Routledge. DOI: [https://doi.org/10.4324/9780203024379](https://doi.org/10.4324/9780203024379).
 
 ---
 
 ### Related Links
 
-[[website/HIST1900/HIST 1900 Source Notes/@winstonMediaTechnologySociety2002]]
+[[@winstonMediaTechnologySociety2002]]
 [[Competences and Social Necessity Antikythera]]

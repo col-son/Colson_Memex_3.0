@@ -18,7 +18,7 @@ A basic explanation of the purpose of Ithaca, a useful tool for historians.
 ---
 ### Citational Information
 
-[[website/HIST1900/HIST 1900 Source Notes/@rouecheMindGapAI2022]]
+[[@rouecheMindGapAI2022]]
 
 ---
 

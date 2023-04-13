@@ -20,7 +20,7 @@ The annotated extraction pretty much explains all of my thoughts on this, althou
 ---
 ### Citational Information
 
-[[1-inbox/@housleyEvolutionEmailSecurity2022]]
+[[@housleyEvolutionEmailSecurity2022]]
 
 ---
 
