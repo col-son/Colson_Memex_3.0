@@ -1,0 +1,713 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../Lecture%2012%20-%20The%20Internet%20-%202023-03-13/" rel="prev"/>
+<link href="../Lecture%2014%20-%20Online%20Culture%20in%20the%2070s%20and%2080s%20-%202023-03-20/" rel="next"/>
+<link href="../../../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-9.1.8" name="generator"/>
+<title>Lecture 13 Building the Network 2023 03 15 - obsidian-mkdocs template</title>
+<link href="../../../assets/stylesheets/main.ded33207.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.a0c5b2b5.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="pink" data-md-color-scheme="default" dir="ltr">
+<script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="obsidian-mkdocs template" class="md-header__button md-logo" data-md-component="logo" href="../../.." title="obsidian-mkdocs template">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            obsidian-mkdocs template
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Lecture 13   Building the Network   2023 03 15
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="pink" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_2" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path></svg>
+</label>
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="pink" data-md-color-scheme="slate" id="__palette_2" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"></path></svg>
+</label>
+</form>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="obsidian-mkdocs template" class="md-nav__button md-logo" data-md-component="logo" href="../../.." title="obsidian-mkdocs template">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+    obsidian-mkdocs template
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../..">
+        Home
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_2" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          HIST1900
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_2_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_2">
+<span class="md-nav__icon md-icon"></span>
+          HIST1900
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+          0 FinalJourney
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_1_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_1">
+<span class="md-nav__icon md-icon"></span>
+          0 FinalJourney
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../0_FinalJourney/0_FinalJourney_1/">
+        0 FinalJourney 1
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../0_FinalJourney/0_FinalJourney_2/">
+        0 FinalJourney 2
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2_2" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+          Administrative (Read First!)
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_2_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_2">
+<span class="md-nav__icon md-icon"></span>
+          Administrative (Read First!)
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Administrative%20%28Read%20First%21%29/Explanation%20of%20Memex%202/">
+        Explanation of Memex 2
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Administrative%20%28Read%20First%21%29/Explanation%20of%20Memex%203/">
+        Explanation of Memex 3
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Administrative%20%28Read%20First%21%29/Improvements%20Made%20for%20Memex%20Assessment%202/">
+        Improvements Made for Memex Assessment 2
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Administrative%20%28Read%20First%21%29/Improvements%20made%20for%20Memex%20Assesment%203/">
+        Improvements made for Memex Assesment 3
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2_3" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+          Atomic
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_3_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_3">
+<span class="md-nav__icon md-icon"></span>
+          Atomic
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Ithaca%20AI/">
+        Ithaca AI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Marchant%20Sponge%20Divers/">
+        Marchant Sponge Divers
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Social%20necessity%20vs%20cost/">
+        Social necessity vs cost
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Technology%20Development%20for%20Military/">
+        Technology Development for Military
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Winston%20Rejection/">
+        Winston Rejection
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/Winston%27s%20Model%20for%20More/">
+        Winston's Model for More
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/adoption%20of%20technology/">
+        Adoption of technology
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/brief%20clarification%20on%20cybersecurity/">
+        Brief clarification on cybersecurity
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/computers%20fill%20in%20the%20gaps/">
+        Computers fill in the gaps
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/developing%20email%20security/">
+        Developing email security
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/early%20email%20security/">
+        Early email security
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/geocities%20and%20BBS/">
+        geocities and BBS
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/internet%20is%20protocols/">
+        Internet is protocols
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/many%20platforms%2C%20same%20function/">
+        Many platforms, same function
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/old%20technology%20is%20the%20basis/">
+        Old technology is the basis
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/one%20tech%20leads%20to%20the%20next/">
+        One tech leads to the next
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Atomic/phone%20company%20monopoly/">
+        Phone company monopoly
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_2_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+          HIST 1900 Lectures
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_2_4_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_4">
+<span class="md-nav__icon md-icon"></span>
+          HIST 1900 Lectures
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%201%20-%20Archeological%20Theory/">
+        Lecture 1   Archeological Theory
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2010%20-%20Developing%20the%20Computer/">
+        Lecture 10   Developing the Computer
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2011%20-%20Computation%20Incunabula/">
+        Lecture 11   Computation Incunabula
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2012%20-%20The%20Internet%20-%202023-03-13/">
+        Lecture 12   The Internet   2023 03 13
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Lecture 13   Building the Network   2023 03 15
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2014%20-%20Online%20Culture%20in%20the%2070s%20and%2080s%20-%202023-03-20/">
+        Lecture 14   Online Culture in the 70s and 80s   2023 03 20
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2015%20-%20Hypertext%20and%20the%20Web%20-%202023-03-22/">
+        Lecture 15   Hypertext and the Web   2023 03 22
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2016%20-%20The%2090s%20-%202023-03-27/">
+        Lecture 16   The 90s   2023 03 27
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2017%20-%20Capitalism%20Takes%20Hold%20-%202023-03-29/">
+        Lecture 17   Capitalism Takes Hold   2023 03 29
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%2018%20-%20google%20and%20connection%20control%20-%202023-04-03/">
+        Lecture 18   google and connection control   2023 04 03
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%202%20-%20Mediums%20and%20Messages/">
+        Lecture 2   Mediums and Messages
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%203%20-%20Cryptography/">
+        Lecture 3   Cryptography
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%204%20-%20The%20Silk%20Industry%20to%20Modern%20Computers/">
+        Lecture 4   The Silk Industry to Modern Computers
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%205%20-%20The%20History%20of%20Electricity/">
+        Lecture 5   The History of Electricity
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%206%20-%20The%20First%20Internet%3B%20The%20Telegraph/">
+        Lecture 6   The First Internet; The Telegraph
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%207%20-%20The%20First%20Internet%3B%20The%20Telegraph%20cont./">
+        Lecture 7   The First Internet; The Telegraph cont.
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%208%20-%20From%20Telegraph%20to%20Telephone/">
+        Lecture 8   From Telegraph to Telephone
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Lecture%209%20-%20The%20Rise%20of%20the%20Telephone/">
+        Lecture 9   The Rise of the Telephone
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+          HIST 1900 Source Notes
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_5_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_5">
+<span class="md-nav__icon md-icon"></span>
+          HIST 1900 Source Notes
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40bushvannevarWeMayThink1945/">
+        @bushvannevarWeMayThink1945
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40doodsonTidepredictingMachines1926/">
+        @doodsonTidepredictingMachines1926
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40dooleyHistoryCryptographyCryptanalysis2018a/">
+        @dooleyHistoryCryptographyCryptanalysis2018a
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40dysonSearchArtificialStellar1960/">
+        @dysonSearchArtificialStellar1960
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40edwardssecretlifeBBS2022/">
+        @edwardssecretlifeBBS2022
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40housleyEvolutionEmailSecurity2022/">
+        @housleyEvolutionEmailSecurity2022
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40makHowPageMatters2011/">
+        @makHowPageMatters2011
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40marchantDecodingHeavensYear2009/">
+        @marchantDecodingHeavensYear2009
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40rouecheMindGapAI2022/">
+        @rouecheMindGapAI2022
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40spinellisAntikytheraMechanismComputer2008/">
+        @spinellisAntikytheraMechanismComputer2008
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40standageVictorianInternetRemarkable1998/">
+        @standageVictorianInternetRemarkable1998
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40stephensDeadEyesOpen2015/">
+        @stephensDeadEyesOpen2015
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40understandingmediaculture2010/">
+        @understandingmediaculture2010
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40weingarttextmessagingworks2019/">
+        @weingarttextmessagingworks2019
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../HIST%201900%20Source%20Notes/%40winstonMediaTechnologySociety2002/">
+        @winstonMediaTechnologySociety2002
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_2_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+          Ideas
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_2_6_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_2_6">
+<span class="md-nav__icon md-icon"></span>
+          Ideas
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Answer%20to%20the%20Francis%20Bacon%20Question/">
+        Answer to the Francis Bacon Question
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Book%20Lab/">
+        Book Lab
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Competences%20and%20Social%20Necessity%20Antikythera/">
+        Competences and Social Necessity Antikythera
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Francis%20Bacon%20Binary%20and%20More/">
+        Francis Bacon Binary and More
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Prototype%20Rejection/">
+        Prototype Rejection
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/Technologies%20we%20cannot%20yet%20create/">
+        Technologies we cannot yet create
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/The%20Industries%20Behind%20the%20Technology/">
+        The Industries Behind the Technology
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/ai%20filling%20in%20the%20gaps/">
+        Ai filling in the gaps
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/controlling%20the%20results/">
+        Controlling the results
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/cutting%20costs%20today/">
+        Cutting costs today
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/natural%20progression%20of%20platforms/">
+        Natural progression of platforms
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/others%20on%20AI/">
+        others on AI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Ideas/why%20no%20security/">
+        Why no security
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>Lecture 13   Building the Network   2023 03 15</h1>
+<ul>
+<li>The connections mentioned in the last lecture weren't really the internet<ul>
+<li>"Internet" involves a number of things communicating, not just two computers talking</li>
+</ul>
+</li>
+<li>pinpointing the exact start of the internet is difficult, it is really a culmination of a bunch of factors converging at different times</li>
+<li>INTERnet -&gt; connecting multiple networks</li>
+<li>France is up to their own computer infrastructure<ul>
+<li>join the packet switch game</li>
+<li>create CYCLADES in 1971, demo in 1973 and fully operational in 1976</li>
+<li>datagram data+telegram </li>
+<li>makes the host do an error connection not the router</li>
+<li>routers ensure transparency </li>
+<li>connectivity becomes easier</li>
+</ul>
+</li>
+<li>French embassy is suggesting French connect their system to the ARPAnet</li>
+<li>Laying a wire would have cost 13M Francs</li>
+<li>University of Hawaii<ul>
+<li>ALOHAnet</li>
+<li>UofH campus' is spread across islands in a 300km radius</li>
+<li>wires over ocean expensive, decide to broadcast data of radio instead </li>
+<li>solve a number of technical issues </li>
+</ul>
+</li>
+<li>SATnet<ul>
+<li>proposal to connect places by satellite</li>
+<li>ARPAnet was already connected to another lab by satellite, watching out for seismic data</li>
+<li>idea to use this connection to go to National Physical Laboratory </li>
+<li>instead connect to University College London, less government interference </li>
+</ul>
+</li>
+<li>PRnet<ul>
+<li>packet radio network</li>
+<li>ALOHAnet but on a truck </li>
+</ul>
+</li>
+<li>European Informatics Network<ul>
+<li>created to share resources by the predecessor of EU</li>
+</ul>
+</li>
+<li>Some networks are unofficial <ul>
+<li>Pam Hardt</li>
+<li>puts computer in a spot where people can leave messages behind</li>
+<li>essentially talking to each other, building a network</li>
+</ul>
+</li>
+<li>How do you keep track of all this info?<ul>
+<li>Elizabeth 'Jake' Feinler</li>
+<li>tasked with creating a resource handbook<ul>
+<li>what is that? no one knows but it needs to be done in 6 weeks</li>
+<li>must make a way to track around 30 nodes in the network at ARPAnet</li>
+<li>a directory of every person on the ARPAnet and how to find them<ul>
+<li>created by phoning people up or sending messages on the net</li>
+<li>1000 pages, comprehensive record</li>
+<li>essentially the infrastructure for finding people up until yahoo came out</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>This task seemed administrative and simply a necessary step, but was extremely important in the evolution of the internet</li>
+<li>the early 70s, non-government agencies emerge, and national competition</li>
+<li>still issues, it's working at a technical level but still hard to make useful</li>
+<li>First International Conference on Computer Communications - Washington 1972<ul>
+<li>lots of demos<ul>
+<li>air traffic simulation</li>
+<li>real-time conferencing</li>
+<li>computerized chess</li>
+<li>ELIZA program - an original chatgpt</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Unintended users<ul>
+<li>Michael Hart U of Illinois<ul>
+<li>posts declaration of independence in 1972, start of project Guternberg</li>
+</ul>
+</li>
+<li>MIT students use the IMP to speed up local communications, not even sending info to ARPAnet</li>
+<li>Games begin to spread, which was not the intended use at all</li>
+</ul>
+</li>
+<li>Email saves the info sharing purpose ^8d435c<ul>
+<li>write a message and drop it into a file on another computer - a mailbox</li>
+</ul>
+</li>
+<li>Alohanet gets adapted by Xerox Palo Alto Research Center<ul>
+<li>make wired connection - ethernet</li>
+<li>work on making different types of systems for different uses </li>
+</ul>
+</li>
+<li>Transmission Control Protocol out by 1973<ul>
+<li>helps make reliable connections between different computers</li>
+</ul>
+</li>
+<li>The way this happened helped prevent boundaries such as national ones</li>
+<li>However, connecting these different networks requires "gateway computers" as companies buy old telegraph buildings to house these facilities </li>
+<li>TCP splits into TCP/IP in 1973</li>
+<li>Consumer computers emerge, and governments concerned, who is on for civilian reasons and who is on for defence</li>
+<li>phone phreaks - can get free long distance by whistling?</li>
+</ul>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+<script src="../../../assets/javascripts/bundle.51198bba.min.js"></script>
+<script src="../../../javascripts/mathjax.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</body>
+</html>
