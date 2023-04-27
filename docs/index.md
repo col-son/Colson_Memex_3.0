@@ -2,6 +2,10 @@ Colson's Memex Index
 ![[MemexVisualGuideLast.png]]
 Guide map, showing the flow of notes as they evolved from each other
 
+- 0_FinalJourney
+	- [[0_FinalJourney_1]]
+	- [[0_FinalJourney_2]]
+
 - Administrative (Read First!)
 	- [[Explanation of Memex 2]]
 	- [[Explanation of Memex 3]]
